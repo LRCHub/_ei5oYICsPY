@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LOST BUBBLERS",
+  "base_artist": "舐達麻",
+  "createdAt": "2025-12-09T15:02:25.058717Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOST BUBBLERS",
+      "artist": "舐達麻",
+      "has_synced": false,
+      "path": "select/pl_01_LOST_BUBBLERS_舐達麻.txt"
+    }
+  ]
+}
